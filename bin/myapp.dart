@@ -4,7 +4,8 @@ import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
 
 String baseUrl = 'api.prop-odds.com';
-String apiKey = '{MY_API_KEY}';
+String apiKey = lBKQEnPNHYbC2QGyQCom2WT1qixLo3VW0t6aFi4
+	
 
 
 Future<Map<String, dynamic>> getRequest(Uri url) async {
